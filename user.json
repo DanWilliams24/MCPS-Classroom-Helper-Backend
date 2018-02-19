@@ -1,0 +1,65 @@
+{
+    "id": 0,
+    "first_name": "",
+    "middle_name": "",
+    "last_name": "",
+    "quarter": 0,
+    "z_grades": [
+        {
+            "course": "",
+            "teacher": "",
+            "grade_percent": "",
+            "assignments": [ 
+                {"date_due": "","category": "", "assignment": "", "score": ""}
+            ]
+        },
+        {
+            "course": "",
+            "teacher": "",
+            "grade_percent": "",
+            "assignments": [ 
+                {"date_due": "","category": "", "assignment": "", "score": ""}
+            ]
+        },
+        {
+            "course": "",
+            "teacher": "",
+            "grade_percent": "",
+            "assignments": [ 
+                {"date_due": "","category": "", "assignment": "", "score": ""}
+            ]
+        },
+        {
+            "course": "",
+            "teacher": "",
+            "grade_percent": "",
+            "assignments": [ 
+                {"date_due": "","category": "", "assignment": "", "score": ""}
+            ]
+        },
+        {
+            "course": "",
+            "teacher": "",
+            "grade_percent": "",
+            "assignments": [ 
+                {"date_due": "","category": "", "assignment": "", "score": ""}
+            ]
+        },
+        {
+            "course": "",
+            "teacher": "",
+            "grade_percent": "",
+            "assignments": [ 
+                {"date_due": "","category": "", "assignment": "", "score": ""}
+            ]
+        },
+        {
+            "course": "",
+            "teacher": "",
+            "grade_percent": "",
+            "assignments": [ 
+                {"date_due": "","category": "", "assignment": "", "score": ""}
+            ]
+        }
+    ]
+}
