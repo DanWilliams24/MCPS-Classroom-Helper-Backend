@@ -5,8 +5,9 @@ WORKFLOWS
     The workflow for PORTAL should look like this using Async:
      Prerequisite - Username & Password are provided in the get request and saved into
       a config file.
-      (NOT SECURE) (UPDATE) (ENCRYPT)
- 
+      (NOT SECURE) (UPDATE) (ENCRYPT USING SSL)
+                
+
      1. Phantom.js loads MCPS login page 
      2. Form on login page is filled out using JQuery to search the DOM.
      3. Modified form is posted, and resulting page is loaded.
@@ -19,8 +20,7 @@ WORKFLOWS
      
  
     The workflow for CANVAS LMS API should look like this using HTTPS Requests:
-     Prerequiste -  The code, client_id and client_secret are provided in the get request and saved
-      into a config file.
+     Prerequiste -  The code, client_id and client_secret are provided in the get request and saved into a config file.
       (NOT SECURE) (UPDATE) (ENCRYPT)
      
      1. Using the required params below, the webserver uses 'Request' to send a POST request

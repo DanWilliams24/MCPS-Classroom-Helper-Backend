@@ -9,15 +9,18 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "phantomjs": "2.1.7",
-    "request": "^2.83.0",
-    "cheerio": "^1.0.0-rc.2",
+    "async": "2.6.0",
     "body-parser": "~1.18.2",
+    "cheerio": "^1.0.0-rc.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "^4.15.5",
     "jade": "~1.11.0",
     "morgan": "~1.9.0",
+    "nconf": "0.10.0",
+    "nightmare": "^2.10.0",
+    "nightmarejs": "0.0.1",
+    "request": "^2.83.0",
     "serve-favicon": "~2.4.5"
   }
 }
