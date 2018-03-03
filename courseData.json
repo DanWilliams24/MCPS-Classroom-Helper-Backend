@@ -1,0 +1,146 @@
+[
+    {
+        "id": 159137,
+        "name": "IB FRENCH 4B: Gerard Giblin: Semester 2",
+        "account_id": 410,
+        "uuid": "9Hi56UBm8FbmbBBhlUKgckWQ6movdd6dZpOQsaUu",
+        "start_at": "2018-02-26T16:22:00Z",
+        "grading_standard_id": null,
+        "is_public": null,
+        "course_code": "IB FRENCH 4B: Gerard Giblin: Semester 2",
+        "default_view": "feed",
+        "root_account_id": 1,
+        "enrollment_term_id": 133,
+        "end_at": null,
+        "public_syllabus": false,
+        "public_syllabus_to_auth": false,
+        "storage_quota_mb": 50000,
+        "is_public_to_auth_users": false,
+        "apply_assignment_group_weights": false,
+        "calendar": {
+            "ics": "https://mcpsmd.instructure.com/feeds/calendars/course_9Hi56UBm8FbmbBBhlUKgckWQ6movdd6dZpOQsaUu.ics"
+        },
+        "time_zone": "America/New_York",
+        "blueprint": false,
+        "enrollments": [
+            {
+                "type": "student",
+                "role": "StudentEnrollment",
+                "role_id": 4,
+                "user_id": 159566,
+                "enrollment_state": "active"
+            }
+        ],
+        "hide_final_grades": false,
+        "workflow_state": "available",
+        "restrict_enrollments_to_course_dates": false
+    },
+    {
+        "id": 162543,
+        "name": "Magnet Chemistry B: Stuart Albaugh: Semester 2",
+        "account_id": 410,
+        "uuid": "Xblrpq7wAtjJylHeAn7ONRMpRbU54ABRTin6UzYB",
+        "start_at": "2018-01-31T01:35:09Z",
+        "grading_standard_id": null,
+        "is_public": null,
+        "course_code": "Magnet Chemistry B: Stuart Albaugh: Semester 2",
+        "default_view": "wiki",
+        "root_account_id": 1,
+        "enrollment_term_id": 133,
+        "end_at": null,
+        "public_syllabus": false,
+        "public_syllabus_to_auth": false,
+        "storage_quota_mb": 50000,
+        "is_public_to_auth_users": false,
+        "apply_assignment_group_weights": false,
+        "calendar": {
+            "ics": "https://mcpsmd.instructure.com/feeds/calendars/course_Xblrpq7wAtjJylHeAn7ONRMpRbU54ABRTin6UzYB.ics"
+        },
+        "time_zone": "America/New_York",
+        "blueprint": false,
+        "enrollments": [
+            {
+                "type": "student",
+                "role": "StudentEnrollment",
+                "role_id": 4,
+                "user_id": 159566,
+                "enrollment_state": "active"
+            }
+        ],
+        "hide_final_grades": false,
+        "workflow_state": "available",
+        "restrict_enrollments_to_course_dates": false
+    },
+    {
+        "id": 102001,
+        "name": "MYP Personal Project: Semester 1",
+        "account_id": 410,
+        "uuid": "uOR4S7YtdtoFRpBDQmVXpYLtk8f4oe2txRocG3b5",
+        "start_at": "2017-09-21T23:13:00Z",
+        "grading_standard_id": null,
+        "is_public": false,
+        "course_code": "MYP RESEARCH SEM: Molly Clarkson: Semester 1",
+        "default_view": "modules",
+        "root_account_id": 1,
+        "enrollment_term_id": 417,
+        "end_at": null,
+        "public_syllabus": false,
+        "public_syllabus_to_auth": false,
+        "storage_quota_mb": 50000,
+        "is_public_to_auth_users": false,
+        "apply_assignment_group_weights": false,
+        "calendar": {
+            "ics": "https://mcpsmd.instructure.com/feeds/calendars/course_uOR4S7YtdtoFRpBDQmVXpYLtk8f4oe2txRocG3b5.ics"
+        },
+        "time_zone": "America/New_York",
+        "blueprint": false,
+        "enrollments": [
+            {
+                "type": "student",
+                "role": "StudentEnrollment",
+                "role_id": 4,
+                "user_id": 159566,
+                "enrollment_state": "active"
+            }
+        ],
+        "hide_final_grades": false,
+        "workflow_state": "available",
+        "restrict_enrollments_to_course_dates": false
+    },
+    {
+        "id": 101349,
+        "name": "MYP RESEARCH SEM: Molly Clarkson: Semester 2",
+        "account_id": 410,
+        "uuid": "Ca2o918n64s4W5kAUXD2DXHkpvehhvFVfyieMVTv",
+        "start_at": "2018-02-13T02:42:48Z",
+        "grading_standard_id": null,
+        "is_public": false,
+        "course_code": "MYP RESEARCH SEM: Molly Clarkson: Semester 2",
+        "default_view": "modules",
+        "root_account_id": 1,
+        "enrollment_term_id": 133,
+        "end_at": null,
+        "public_syllabus": false,
+        "public_syllabus_to_auth": false,
+        "storage_quota_mb": 50000,
+        "is_public_to_auth_users": false,
+        "apply_assignment_group_weights": false,
+        "calendar": {
+            "ics": "https://mcpsmd.instructure.com/feeds/calendars/course_Ca2o918n64s4W5kAUXD2DXHkpvehhvFVfyieMVTv.ics"
+        },
+        "time_zone": "America/New_York",
+        "blueprint": false,
+        "enrollments": [
+            {
+                "type": "student",
+                "role": "StudentEnrollment",
+                "role_id": 4,
+                "user_id": 159566,
+                "enrollment_state": "active"
+            }
+        ],
+        "hide_final_grades": false,
+        "workflow_state": "available",
+        "restrict_enrollments_to_course_dates": false
+    }
+]
